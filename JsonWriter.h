@@ -2,8 +2,8 @@
  * systcs_JSON_Builder.h
  *
  *  Created on: Dec 2, 2013
- *      Author: Nehchal J. / Ram Das
- *      Email: nehchal@systemantics.com / ramdas@systemantics.com
+ *      Author: Nehchal J.
+ *      Email: nehchalj@gmail.com
  *      Description: Build the JSON string.
  */
 

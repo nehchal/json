@@ -2,7 +2,7 @@
  * UT.h
  *
  *  Created on: 15-Apr-2014
- *      Author: Systemantics
+ *      Author: Nehchal J. (nehchalj@gmail.com)
  */
 
 #ifndef UT_H_

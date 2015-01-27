@@ -2,7 +2,7 @@
  * systcs_UT.c
  *
  *  Created on: 14-Apr-2014
- *      Author: Systemantics
+ *      Author: Nehchal J. (nehchalj@gmail.com)
  */
 
 

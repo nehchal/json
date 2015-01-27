@@ -4,8 +4,7 @@
  * Created on: Dec 6, 2013
  * Last Edited: Dec 12, 2013
  * Author: Nehchal J.
- * Email: nehchal@systemantics.com
- * Organization: Systemantics India Pvt. Ltd.
+ * Email: nehchalj@gmail.com
  * Description: Used to read the JSON string if syntactic structure is
  *       		already known. The design is on the lines of Android
  *      		JsonReader.

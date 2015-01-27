@@ -2,8 +2,7 @@
  * JsonReader_test.c
  *
  *  Created on: 25-Apr-2014
- *      Author: Nehchal J. (nehchal@systemantics.com)
- *      Org   : Systemantics India Pvt. Ltd.
+ *      Author: Nehchal J. (nehchalj@gmail.com)
  */
 
 

@@ -2,8 +2,8 @@
  * systcs_JSON_Builder.c
  *
  *  Created on: Aug 9, 2013
- *      Author: Nehchal J. / Ram Das
- *      Email: nehchal@systemantics.com / ramdas@systemantics.com
+ *      Author: Nehchal J.
+ *      Email: nehchalj@gmail.com
  *  Edited on : Dec 5, 2013
  *  Revision Notes	  : Nov 20, 2013 | Changes made to the floatToStr()
  *  				  : Dec 3, 2013 | Optimized the code for computation

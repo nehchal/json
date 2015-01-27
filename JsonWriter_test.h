@@ -4,8 +4,7 @@
  *
  *  Created on: 07-May-2014
  *      Author: Nehchal J.
- *      Email:  nehchal@systemantics.com
- *      Organization: Systemantics India Pvt. Ltd.
+ *      Email:  nehchalj@gmail.com
  *      Desc:   unit test of JsonReader component
  */
 

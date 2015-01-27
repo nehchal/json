@@ -2,10 +2,9 @@
  * JsonReader.c
  *
  * Created on: Dec 6, 2013
- * Last Edited: Dec 12, 2013
+ * Last Edited: Jan 26, 2015
  * Author: Nehchal J.
- * Email: nehchal@systemantics.com
- * Organization: Systemantics India Pvt. Ltd.
+ * Email: nehchalj@gmail.com
  */
 
 /* ======= Revision History ========
